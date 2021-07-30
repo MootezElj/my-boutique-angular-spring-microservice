@@ -29,12 +29,12 @@ My-boutique is an angular 8 app, it is the front-end of the **[my-boutique-micro
 
 <img src="https://i.postimg.cc/9fPHjHyv/cart.png"     alt="Markdown Monster icon"     style="float: left; margin-right: 10px;" />
 
-###### Product Details - 1
+###### Product Details
 
 <img src="https://i.postimg.cc/v82Fyz6H/product-overview.png"     alt="Markdown Monster icon"     style="float: left; margin-right: 10px;" />
 
 
-#### Other pictures are public in this album, check them out.
+#### Other pictures are public in this album, check them out (here)[https://ibb.co/album/xhkyZv].
 
 ### <a name="features"></a> Features:
 
