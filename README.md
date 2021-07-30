@@ -10,13 +10,43 @@ My-boutique is an angular 8 app, it is the front-end of the **[my-boutique-micro
 
 <img src="https://i.postimg.cc/dV1W1BMw/Home1.png"     alt="Markdown Monster icon"     style="float: left; margin-right: 10px;" />
 
+###### Home Page 2
+
 <img src="https://i.postimg.cc/6qmDhWNG/home-page.png"     alt="Markdown Monster icon"     style="float: left; margin-right: 10px;" />
 
+###### Departments
 
-###### Product List
+<img src="https://i.postimg.cc/VL2xrkRx/departments.png"     alt="Markdown Monster icon"     style="float: left; margin-right: 10px;" />
 
-<img src="https://i.postimg.cc/MKXZmCVB/Product-list4.png"     alt="Markdown Monster icon"     style="float: left; margin-right: 10px;" />
 
+
+###### Browse products
+
+<img src="https://i.postimg.cc/bwtj3trY/browse-products.png"     alt="Markdown Monster icon"     style="float: left; margin-right: 10px;" />
+
+###### Browse products -2
+
+<img src="https://i.postimg.cc/KvKX8Mn7/browse-products2.png"     alt="Markdown Monster icon"     style="float: left; margin-right: 10px;" />
+
+###### Cart
+
+<img src="https://i.postimg.cc/9fPHjHyv/cart.png"     alt="Markdown Monster icon"     style="float: left; margin-right: 10px;" />
+
+###### Product Details - 1
+
+<img src="https://i.postimg.cc/v82Fyz6H/product-overview.png"     alt="Markdown Monster icon"     style="float: left; margin-right: 10px;" />
+
+###### Product Details - 2
+
+<img src="https://i.postimg.cc/9MW5mgpz/product-overview2.png"     alt="Markdown Monster icon"     style="float: left; margin-right: 10px;" />
+
+###### Register Page
+
+<img src="https://i.postimg.cc/MTdkv0P5/register.png"     alt="Markdown Monster icon"     style="float: left; margin-right: 10px;" />
+
+###### Login Page
+
+<img src="https://i.postimg.cc/R0xx8ZJ7/login-page.png"     alt="Markdown Monster icon"     style="float: left; margin-right: 10px;" />
 
 ### <a name="features"></a> Features:
 
@@ -274,12 +304,3 @@ The back-end used by our angular application is an altered version of the main [
 ### <a name="license"></a>License:
 
 This code (images included) is open-source, you may use it as you like but I'm not responsible of the way you use the code.
-
-
-
-
-
-
-
-
-
