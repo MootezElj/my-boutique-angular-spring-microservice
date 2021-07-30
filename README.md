@@ -24,9 +24,6 @@ My-boutique is an angular 8 app, it is the front-end of the **[my-boutique-micro
 
 <img src="https://i.postimg.cc/bwtj3trY/browse-products.png"     alt="Markdown Monster icon"     style="float: left; margin-right: 10px;" />
 
-###### Browse products -2
-
-<img src="https://i.postimg.cc/KvKX8Mn7/browse-products2.png"     alt="Markdown Monster icon"     style="float: left; margin-right: 10px;" />
 
 ###### Cart
 
@@ -36,17 +33,8 @@ My-boutique is an angular 8 app, it is the front-end of the **[my-boutique-micro
 
 <img src="https://i.postimg.cc/v82Fyz6H/product-overview.png"     alt="Markdown Monster icon"     style="float: left; margin-right: 10px;" />
 
-###### Product Details - 2
 
-<img src="https://i.postimg.cc/9MW5mgpz/product-overview2.png"     alt="Markdown Monster icon"     style="float: left; margin-right: 10px;" />
-
-###### Register Page
-
-<img src="https://i.postimg.cc/MTdkv0P5/register.png"     alt="Markdown Monster icon"     style="float: left; margin-right: 10px;" />
-
-###### Login Page
-
-<img src="https://i.postimg.cc/R0xx8ZJ7/login-page.png"     alt="Markdown Monster icon"     style="float: left; margin-right: 10px;" />
+#### Other pictures are public in this album, check them out.
 
 ### <a name="features"></a> Features:
 
