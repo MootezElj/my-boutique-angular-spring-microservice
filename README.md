@@ -1,6 +1,6 @@
 # My-Boutique-Angular 1.0
 
-This app is the front-end of the **[my-boutique-microservice](https://github.com/MootezElj/my-boutique-microservice-back-end)** spring-boot app that I developped as an intern at the "Omicrone" enterprise and implemented following **Nebrass Lamouchi**'s book "**[Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp)**".<br>
+This app is the front-end of the **[my-boutique-microservice](https://github.com/MootezElj/my-boutique-microservice-back-end)** spring-boot app that I developped as an intern at the ["Omicrone"](http://omicrone.fr/) enterprise and implemented following **Nebrass Lamouchi**'s book "**[Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp)**".<br>
 In this documentation, I will guide you through getting both the microservices and the angular application and run them localy.
 
 **Below some screenshots of the application:**
